@@ -12,9 +12,9 @@
 ## 🍰 System Preview
 
 <p align="center">
-  <![658296803_1483936033742115_3002023844812331431_n](https://github.com/user-attachments/assets/7a3c2c58-9209-4fa6-9ff5-635ba9522cd3)>
-  <![668480704_1489218233213895_2228800734164259435_n](https://github.com/user-attachments/assets/22a7226e-65c8-46c0-a6a5-1236f73233f2)>
-  <![661729724_1489218179880567_8728101378993155127_n](https://github.com/user-attachments/assets/f3af6148-7562-4d4c-a0a6-c2ab2b892890)>
+  <img src="https://github.com/user-attachments/assets/7a3c2c58-9209-4fa6-9ff5-635ba9522cd3" width="260"/>
+  <img src="https://github.com/user-attachments/assets/22a7226e-65c8-46c0-a6a5-1236f73233f2" width="260"/>
+  <img src="https://github.com/user-attachments/assets/f3af6148-7562-4d4c-a0a6-c2ab2b892890" width="260"/>
 </p>
 
 ---
