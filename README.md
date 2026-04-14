@@ -10,7 +10,10 @@
 ---
 
 ## 🍰 System Preview
-![Pastry System](https://images.unsplash.com/photo-1551024601-bec78aea704b?auto=format&fit=crop&w=1200&q=80)
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=600&q=80" width="400"/>
+</p>
 
 ---
 
