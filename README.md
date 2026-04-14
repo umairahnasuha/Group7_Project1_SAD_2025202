@@ -33,7 +33,7 @@ The system provides:
 ## 📌 Phase 1: Project Proposal & Planning
 
 🔗 **Kanban Board**  
-👉 
+👉 https://github.com/users/umairahnasuha/projects/1
 
 📄 **Project Report**  
 👉 https://liveutm-my.sharepoint.com/:w:/g/personal/sharifahnadiahbalqis_live_utm_my/IQB08zzPkyYdQpi3VmzIBnMAAc5i_xbQTZqIU7iEVj6tw8A?e=P1ArvI 
