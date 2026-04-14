@@ -1,6 +1,7 @@
 # Group7_Project1_SAD_20252026
 
 # 📚 Cooplearn – E-Learning Collaboration Platform
+# 🥐 Pastry Ordering System – Finie’s Kitchen
 
 ![Status](https://img.shields.io/badge/status-active-success)
 ![Course](https://img.shields.io/badge/course-SECD2613-blue)
@@ -8,14 +9,17 @@
 
 ---
 
+## 🍰 System Preview
+![Pastry System](https://images.unsplash.com/photo-1551024601-bec78aea704b?auto=format&fit=crop&w=1200&q=80)
+
+---
+
 ## ✨ Description
-**Cooplearn** is a user-friendly e-learning platform designed to enhance students' academic performance through collaboration.
+The **Pastry Ordering System** is a web-based application developed to transform manual pastry business operations into a structured, efficient, and centralized system.
 
-The system provides:
-- 💬 Group chat feature for discussion  
-- 👥 Support for teamwork and group-based learning  
-- 📈 Tools to improve academic engagement  
+Currently, **Finie’s Kitchen** depends on WhatsApp and social media, which leads to unorganized order handling. This system introduces automation and proper data management to improve workflow.
 
+---
 ---
 
 ## 🏃 Our Team
@@ -40,11 +44,12 @@ The system provides:
 
 ---
 
-## 🚀 Features
-- User-friendly interface  
-- Real-time group communication  
-- Collaborative learning environment  
-- Academic performance support  
+## 🚀 Key Features
+- 📦 Order Management System  
+- 🛒 Add-to-cart functionality  
+- 📋 Product listing with pricing  
+- 🔔 Order tracking system  
+- 📊 Data recording & management  
 
 ---
 
@@ -64,12 +69,6 @@ The system provides:
 
 ---
 
-## 💡 Future Improvements
-- Add video conferencing feature  
-- AI-based study recommendations  
-- Mobile application version  
-
----
-
 ## 📜 License
-This project is for academic purposes under **SECD2613 System Analysis and Design**.
+This project is developed for academic purposes under  
+**SECD2613 – System Analysis and Design**
