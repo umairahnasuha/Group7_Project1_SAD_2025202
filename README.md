@@ -12,9 +12,20 @@
 ## 🍰 System Preview
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1559620192-032c4bc4674e?auto=format&fit=crop&w=600&q=80" width="300"/>
-  <img src="https://images.unsplash.com/photo-1486427944299-d1955d23e34d?auto=format&fit=crop&w=600&q=80" width="300"/>
+  <img src="https://images.unsplash.com/photo-1559620192-032c4bc4674e?auto=format&fit=crop&w=500&q=80" width="260"/>
+  <img src="https://images.unsplash.com/photo-1486427944299-d1955d23e34d?auto=format&fit=crop&w=500&q=80" width="260"/>
+  <img src="https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=500&q=80" width="260"/>
 </p>
+
+---
+
+## 🖥️ System Interface Idea
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=500&q=80" width="260"/>
+  <img src="https://images.unsplash.com/photo-1559028012-481c04fa702d?auto=format&fit=crop&w=500&q=80" width="260"/>
+</p>
+
 ## ✨ Description
 The **Pastry Ordering System** is a web-based application developed to transform manual pastry business operations into a structured, efficient, and centralized system.
 
