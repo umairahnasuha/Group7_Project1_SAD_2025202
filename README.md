@@ -12,19 +12,12 @@
 ## 🍰 System Preview
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1559620192-032c4bc4674e?auto=format&fit=crop&w=500&q=80" width="260"/>
-  <img src="https://images.unsplash.com/photo-1486427944299-d1955d23e34d?auto=format&fit=crop&w=500&q=80" width="260"/>
-  <img src="https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=500&q=80" width="260"/>
+  <![658296803_1483936033742115_3002023844812331431_n](https://github.com/user-attachments/assets/7a3c2c58-9209-4fa6-9ff5-635ba9522cd3)>
+  <![668480704_1489218233213895_2228800734164259435_n](https://github.com/user-attachments/assets/22a7226e-65c8-46c0-a6a5-1236f73233f2)>
+  <![661729724_1489218179880567_8728101378993155127_n](https://github.com/user-attachments/assets/f3af6148-7562-4d4c-a0a6-c2ab2b892890)>
 </p>
 
 ---
-
-## 🖥️ System Interface Idea
-
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=500&q=80" width="260"/>
-  <img src="https://images.unsplash.com/photo-1559028012-481c04fa702d?auto=format&fit=crop&w=500&q=80" width="260"/>
-</p>
 
 ## ✨ Description
 The **Pastry Ordering System** is a web-based application developed to transform manual pastry business operations into a structured, efficient, and centralized system.
